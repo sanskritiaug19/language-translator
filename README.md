@@ -1,2 +1,2 @@
 # language-translator
-this is a program used to translator from one language to other language of your choice
+this is a program used as a translator from one language to other language of your choice
